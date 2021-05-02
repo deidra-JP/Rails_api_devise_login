@@ -1,25 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails+deviseで作成した、トークン認証のWebApi
 
-Things you may want to cover:
+:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* config/database.ymlのnameとパスは設定したPostgreSQL Accountと同一のもの
+ ...
 # Rails_api_devise_login
